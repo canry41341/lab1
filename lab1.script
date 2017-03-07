@@ -1,0 +1,31 @@
+命令稿啟動於 2017年03月07日 (週二) 21時45分14秒
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ whoami:[K;pwd
+xolovestephi
+/home/xolovestephi
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ git config -l
+user.email=canry334@yahoo.com
+user.name=canry41341
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ git clone https://github.com/canry41341/ git[K[K[Klab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ ls][K
+[0m[01;32madd[0m               [01;32mHello[0m      lab1.script  [01;34m下載[0m  [01;34m影片[0m  [01;34m模板[0m
+add.cpp           Hello.cpp  [01;32mzodiac[0m       [01;34m公共[0m  [01;34m文件[0m  [01;34m音樂[0m
+examples.desktop  lab1       zodiac.cpp   [01;34m圖片[0m  [01;34m桌面[0m
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ rm lb[Kab1
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ ls
+[0m[01;32madd[0m      examples.desktop  Hello.cpp    [01;32mzodiac[0m      [01;34m下載[0m  [01;34m圖片[0m  [01;34m文件[0m  [01;34m模板[0m
+add.cpp  [01;32mHello[0m             lab1.script  zodiac.cpp  [01;34m公共[0m  [01;34m影片[0m  [01;34m桌面[0m  [01;34m音樂[0m
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ git clobne[K[K[Kne httpsls[Krm lab1ls[Kgit clone https://github.com/canry41341/llab1.git
+Cloning into 'lab1'...
+Username for 'https://github.com': canry41`341    341
+Password for 'https://canry41341@github.com': 
+remote: Repository not found.
+fatal: repository 'https://github.com/canry41341/lab1.git/' not found
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ git clone https://github.com/canry41341/llab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;xolovestephi@xolovestephi-VirtualBox: ~[01;32mxolovestephi@xolovestephi-VirtualBox[00m:[01;34m~[00m$ exit
+
+命令稿已於 2017年03月07日 (週二) 21時50分34秒
+ 完成
